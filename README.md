@@ -24,6 +24,8 @@
 * `data/` — Исходные данные проекта (`energydata_complete.csv`, `train.parquet`, `test.parquet`).
 * `.gitignore` — Файл для исключения мусора (кэша Jupyter) из репозитория.
 
+‼️notebooks/ (01_EDA.ipynb, 02_Temporal_features.ipynb, 03_Aggregate_features.ipynb) оставлены для истории и наработок команды, а актуальный пайплайн идёт по трём  выше указанным файлам.
+
 ## 🗺️ План пайплайна (Pipeline)
 
 - [x] **Этап 1: EDA (Разведочный анализ данных)** — *Выполнено* 
